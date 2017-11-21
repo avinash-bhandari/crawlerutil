@@ -7,3 +7,5 @@ target/
 .classpath
 test-output/
 */test-output/
+*.class
+*.jar
